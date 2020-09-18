@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "429289663812",
+    "firebase_url": "https://phonevalidate-d617e.firebaseio.com",
+    "project_id": "phonevalidate-d617e",
+    "storage_bucket": "phonevalidate-d617e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429289663812:android:cff048fe71ef6b949e3b11",
+        "android_client_info": {
+          "package_name": "com.bill.phonevalidate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429289663812-0iaj56u377hgg1mokcth1kdrfr6jo62r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bill.phonevalidate",
+            "certificate_hash": "1a47702adb0e504f2cb4948744c69878af1436f1"
+          }
+        },
+        {
+          "client_id": "429289663812-c8995i9ckur8rn3n3vk8t7bndk22ujii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zagY9U5nZBb43rG0i_GzLH1u6xig99o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429289663812-c8995i9ckur8rn3n3vk8t7bndk22ujii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
