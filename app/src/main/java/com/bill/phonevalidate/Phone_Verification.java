@@ -146,7 +146,7 @@ public class Phone_Verification extends AppCompatActivity {
                             //verification unsuccessful.. display an error message
 
                             String message = "Code wrong";
-                            Toast.makeText(Phone_Verification.this, "message", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(Phone_Verification.this, message, Toast.LENGTH_SHORT).show();
 
 
                         }
